@@ -1,0 +1,44 @@
+
+body{
+  background-color: black;
+}
+  
+#input {
+  
+
+  width: 98%; 
+  font-size: 16px; 
+  padding: 12px 20px 12px 10px; 
+  border: 1px solid gray; 
+  margin-bottom: 12px; 
+  text-align: center;
+}
+
+#ul {
+
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#ul li a {
+  text-align: center;
+  border: 1px solid #ddd;
+  margin-top: -1px; 
+  background-color: green; 
+  padding: 12px; 
+  text-decoration: none; 
+  font-size: 18px; 
+  color: black; 
+  display: block; 
+}
+
+#ul li a:hover{
+  background-color: #eee;
+}
+
+#button{
+  width: 60px;
+  height: 35px;
+  color: blue;
+}
